@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"
 venue: "R for Reproducible Scientific Analysis"
-address: "600 Main Street, Bar Harbor, Maine"
+address: "Breezeway Bioinformatics Training Room, Bldg 1, Unit 5, Room 1540, 600 Main Street, Bar Harbor, Maine"
 country: "us"
 language: "en"
 latlng: "44.365336,-68.196283"

@@ -10,7 +10,7 @@ humandate: "Jan 28, Feb 4, and Feb 11, 2019"
 humantime: "12:30 - 4:30 pm"
 startdate:  2019-01-28
 enddate: 2019-02-11
-instructor: ["Selcan Aydin"]
+instructor: ["Sue McClatchy", "Selcan Aydin"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document

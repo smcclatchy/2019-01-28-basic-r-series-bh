@@ -13,7 +13,7 @@ enddate: 2019-02-11
 instructor: ["Sue McClatchy", "Selcan Aydin"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2019-01-28-basic-r-series-bh
 eventbrite: 41703424064
 ---
 

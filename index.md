@@ -11,7 +11,7 @@ humantime: "12:30 - 4:30 pm"
 startdate:  2019-01-28
 enddate: 2019-02-11
 instructor: ["Sue McClatchy", "Selcan Aydin"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Dan Gatti"] 
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: https://pad.carpentries.org/2019-01-28-basic-r-series-bh
 eventbrite: 41703424064
